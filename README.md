@@ -8,6 +8,6 @@ Details of Experiment 1-6.
 
 ## Note
 We omitted something in Constraint 24 in the revised manuscript. It should be that 
-$${\rm PresenceOf}(ops[seq_i[1]]) => {\rm PresenceOf}(ops[seq_i[2]]) \quad \forall seq_i \in SEQ, {\rm type}(seq_i) > 0 \qquad (24)$$
+![image](Constraint24.png)
 
 We will fix the typo if we have the next revision.
